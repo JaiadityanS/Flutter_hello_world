@@ -1,6 +1,6 @@
 # FIRST APP IN FLUTTER
 
-A new Flutter project.
+A new Flutter project.It prints "Hello World" in the center . It works Awesome in all platform
 
 ## Getting Started
 
